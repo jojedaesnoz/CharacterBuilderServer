@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.jojeda.servidor_character_builder.ServidorCharacterBui
+ lderApplication
+
